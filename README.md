@@ -16,7 +16,7 @@
 [![DEF CON](https://img.shields.io/badge/Presented%20at-DEF%20CON-ef4444?style=flat-square)](https://defcon.org)
 [![Educational](https://img.shields.io/badge/Purpose-Educational%20Only-22c55e?style=flat-square)]()
 
-*Demonstrates how misconfigured SPF/DMARC records enable email spoofing *
+*Demonstrates how misconfigured SPF/DMARC records enable email spoofing*
 
 </div>
 
